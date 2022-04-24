@@ -3,7 +3,7 @@ def simpleInterest(p,t,r):
     print("the principle is",r)
     print("the principle is",t)
 
-    return(p*t*r)/100
+    return (p*t*r)/100
 
 
 
